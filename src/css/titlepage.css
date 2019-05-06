@@ -1,0 +1,26 @@
+.titlepage
+{
+    text-align: center
+}
+.quote-title
+{
+    font-weight: 300;
+    font-style: italic;
+    color: #b3b3b3;
+    margin-top: 0.5vh;
+    font-size: 1.2vmax;
+
+}
+.title{
+    font-weight: 400;
+    color: rgb(231, 118, 12);
+    font-size: 4vmax;
+    padding:0;
+    margin: 0;
+}
+@media only screen and (max-width: 575px) {
+    .quote-title
+    {
+    font-size: 2vmax;
+    }
+  }

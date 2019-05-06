@@ -1,0 +1,63 @@
+.orderpage
+{
+    font-weight: 300;
+}
+.booking-btn
+{
+    align-content: center;
+    width:80vw;
+    margin: 10vw ;
+    margin-top: 2vh;
+    margin-bottom: 0vh;
+    background:  rgb(231, 118, 12);
+    border: 2px solid #fff;
+    color: #fff
+
+}
+.billing
+{
+    width: 80vw;
+    margin: 10vw;
+    margin-top: 5vh;
+}
+.hotel-menu
+{
+    margin: 10vw ;
+    margin-top : 3vh;
+}
+.hotel-detail
+{
+    margin-left: 1vw;
+}
+.btn-menu
+{
+    border: 1px solid #fff;
+    color: #fff;
+}
+.bg-color
+{
+   background:  rgb(231, 118, 12);
+}
+.hotel-viewed
+{
+    margin: 10vw ;
+    margin-top : 3vh;
+}
+.fontbeauty
+{
+    font-weight: 400
+}
+.selected-items
+{
+    border : 1px solid rgb(231, 118, 12);
+}
+@media only screen and (max-width: 575px) {
+    .choosenitems 
+    {
+        margin-top: 2vh;
+    }
+    .selecteditems
+    {
+        margin-top: 2vh;
+    }
+  }

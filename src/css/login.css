@@ -1,0 +1,37 @@
+.login-page
+{
+    margin: 0vw 10vw;
+}
+.login-title
+{
+    font-weight: 300;
+    font-size: 4vmin;
+    color: rgb(231, 118, 12);
+}
+.label
+{
+    font-size: 1.5vmax;
+    font-weight: 300;
+}
+input::placeholder
+{
+    font-size: 1.0vmax;
+    font-weight: 300;
+}
+.login-btn
+{
+    align-content: center;
+    width:80vw;
+    margin-top: 2vh;
+    margin-bottom: 0vh;
+    background:  rgb(231, 118, 12);
+    border: 2px solid #fff;
+    color: #fff;
+    font-weight: 300
+
+}
+input
+{
+    width: 20vmax;
+    height: 2vmax;
+}
